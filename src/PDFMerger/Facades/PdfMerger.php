@@ -1,4 +1,4 @@
-<?php namespace LynX39\LaraPdfMerger\Facades;
+<?php namespace abdullahbutt3434\PDFMerger\Facades;
 
 use Illuminate\Support\Facades\Facade;
 
